@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = mesheditor
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    mesheditor/__main__.py
